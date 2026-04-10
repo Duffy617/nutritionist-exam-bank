@@ -1,0 +1,21 @@
+[
+  {
+    "year": "113",
+    "term": "第二次",
+    "subject": "營養學",
+    "question_number": 1,
+    "question": "（此為示範格式，PDF 上傳後 AI 自動填入）",
+    "options": {
+      "A": "選項A",
+      "B": "選項B", 
+      "C": "選項C",
+      "D": "選項D"
+    },
+    "answer": "B",
+    "corrected_answer": null,
+    "explanation": "AI 解析將在 PDF 上傳後自動生成",
+    "keywords": ["示範"],
+    "difficulty": "中等",
+    "source": "考選部"
+  }
+]
