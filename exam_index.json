@@ -1,0 +1,1056 @@
+[
+  {
+    "code": "100030",
+    "roc_year": 100,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/100年第1次",
+    "questions_file": "exams/100年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 38
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "100110",
+    "roc_year": 100,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/100年第2次",
+    "questions_file": "exams/100年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "101030",
+    "roc_year": 101,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/101年第1次",
+    "questions_file": "exams/101年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "101110",
+    "roc_year": 101,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/101年第2次",
+    "questions_file": "exams/101年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "102030",
+    "roc_year": 102,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/102年第1次",
+    "questions_file": "exams/102年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "102110",
+    "roc_year": 102,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/102年第2次",
+    "questions_file": "exams/102年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "103030",
+    "roc_year": 103,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/103年第1次",
+    "questions_file": "exams/103年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 37
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "103110",
+    "roc_year": 103,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/103年第2次",
+    "questions_file": "exams/103年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 0
+      }
+    ]
+  },
+  {
+    "code": "104030",
+    "roc_year": 104,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/104年第1次",
+    "questions_file": "exams/104年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 37
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "104110",
+    "roc_year": 104,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/104年第2次",
+    "questions_file": "exams/104年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 35
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 39
+      }
+    ]
+  },
+  {
+    "code": "105030",
+    "roc_year": 105,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/105年第1次",
+    "questions_file": "exams/105年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "105110",
+    "roc_year": 105,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/105年第2次",
+    "questions_file": "exams/105年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "106030",
+    "roc_year": 106,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/106年第1次",
+    "questions_file": "exams/106年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "106110",
+    "roc_year": 106,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/106年第2次",
+    "questions_file": "exams/106年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 37
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "107030",
+    "roc_year": 107,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/107年第1次",
+    "questions_file": "exams/107年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "107110",
+    "roc_year": 107,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/107年第2次",
+    "questions_file": "exams/107年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 38
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "108030",
+    "roc_year": 108,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/108年第1次",
+    "questions_file": "exams/108年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 40
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "108110",
+    "roc_year": 108,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/108年第2次",
+    "questions_file": "exams/108年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 0
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "109030",
+    "roc_year": 109,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/109年第1次",
+    "questions_file": "exams/109年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 0
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 38
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 38
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "109110",
+    "roc_year": 109,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/109年第2次",
+    "questions_file": "exams/109年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 38
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 39
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 37
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "110030",
+    "roc_year": 110,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/110年第1次",
+    "questions_file": "exams/110年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 39
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "110110",
+    "roc_year": 110,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/110年第2次",
+    "questions_file": "exams/110年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 39
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "111030",
+    "roc_year": 111,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/111年第1次",
+    "questions_file": "exams/111年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 40
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "111110",
+    "roc_year": 111,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/111年第2次",
+    "questions_file": "exams/111年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 40
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "112030",
+    "roc_year": 112,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/112年第1次",
+    "questions_file": "exams/112年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 39
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "112110",
+    "roc_year": 112,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/112年第2次",
+    "questions_file": "exams/112年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 40
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "113030",
+    "roc_year": 113,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/113年第1次",
+    "questions_file": "exams/113年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 50
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 49
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 40
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 49
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 50
+      }
+    ]
+  },
+  {
+    "code": "113100",
+    "roc_year": 113,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/113年第2次",
+    "questions_file": "exams/113年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 49
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 50
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 36
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 50
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 48
+      }
+    ]
+  },
+  {
+    "code": "114030",
+    "roc_year": 114,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/114年第1次",
+    "questions_file": "exams/114年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 46
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 49
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 38
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 46
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 45
+      }
+    ]
+  },
+  {
+    "code": "114100",
+    "roc_year": 114,
+    "session": 2,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/114年第2次",
+    "questions_file": "exams/114年第2次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 40
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 39
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 40
+      }
+    ]
+  },
+  {
+    "code": "115030",
+    "roc_year": 115,
+    "session": 1,
+    "exam_type": "高等考試營養師",
+    "dir": "exams/115年第1次",
+    "questions_file": "exams/115年第1次/questions.json",
+    "subjects": [
+      {
+        "subject": "生理學與生物化學",
+        "mcq_count": 49
+      },
+      {
+        "subject": "營養學",
+        "mcq_count": 50
+      },
+      {
+        "subject": "膳食療養學",
+        "mcq_count": 40
+      },
+      {
+        "subject": "團體膳食設計與管理",
+        "mcq_count": 39
+      },
+      {
+        "subject": "公共衛生營養學",
+        "mcq_count": 48
+      },
+      {
+        "subject": "食品衛生與安全",
+        "mcq_count": 49
+      }
+    ]
+  }
+]
