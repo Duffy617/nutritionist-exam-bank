@@ -1,0 +1,18 @@
+{
+  "year": 115,
+  "session": 1,
+  "session_label": "first",
+  "total_questions": 280,
+  "subject_counts": {
+    "SUBJ02": 50,
+    "SUBJ03": 40,
+    "SUBJ04": 40,
+    "SUBJ05": 50,
+    "SUBJ07": 50,
+    "SUBJ08": 50
+  },
+  "schema_version": "2.0-dual-layer",
+  "generated_at": "2026-04-14T16:59:04.320063+00:00",
+  "source": "https://github.com/Duffy617/nutritionist-exam-bank",
+  "license": "CC-BY-NC-SA-4.0"
+}

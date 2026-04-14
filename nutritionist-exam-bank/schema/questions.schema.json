@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Duffy617/nutritionist-exam-bank/schema/questions.schema.json",
+  "title": "Taiwan Nutritionist QBank — Session Questions File",
+  "type": "object",
+  "required": ["meta", "questions"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["year", "session", "total_questions", "schema_version"],
+      "properties": {
+        "year": { "type": "integer", "minimum": 80, "maximum": 200 },
+        "session": { "type": "integer", "enum": [1, 2] },
+        "session_label": { "type": "string", "enum": ["first", "second"] },
+        "total_questions": { "type": "integer", "minimum": 0 },
+        "subject_counts": {
+          "type": "object",
+          "patternProperties": { "^SUBJ\\d{2}$": { "type": "integer" } }
+        },
+        "schema_version": { "type": "string" },
+        "generated_at": { "type": "string", "format": "date-time" },
+        "source": { "type": "string", "format": "uri" },
+        "license": { "type": "string" }
+      }
+    },
+    "questions": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/question" }
+    }
+  },
+  "$defs": {
+    "question": {
+      "type": "object",
+      "required": ["id", "question", "options", "answer", "subject_code", "year", "session"],
+      "properties": {
+        "question": { "type": "string", "minLength": 1 },
+        "options": {
+          "type": "object",
+          "patternProperties": { "^[A-E]$": { "type": "string" } },
+          "minProperties": 2
+        },
+        "answer": { "type": ["string", "null"], "pattern": "^[A-E]+$" },
+        "corrected_answer": { "type": ["string", "null"] },
+        "explanation": { "type": "string" },
+
+        "id": { "type": "string", "pattern": "^營養師_\\d{2,3}-[12]_SUBJ\\d{2}_\\d{2,3}$" },
+        "year": { "type": "integer" },
+        "year_ad": { "type": ["integer", "null"] },
+        "session": { "type": "integer", "enum": [1, 2] },
+        "session_label": { "type": "string", "enum": ["first", "second"] },
+        "subject_code": { "type": "string", "pattern": "^SUBJ\\d{2}$" },
+        "subject_name": { "type": "string" },
+        "new_curriculum": { "type": ["boolean", "null"] },
+        "question_number": { "type": ["integer", "null"] },
+        "question_type": { "type": "string", "enum": ["single_choice", "multi_choice", "essay"] },
+        "score": { "type": ["number", "null"] },
+        "negative_marking": { "type": "boolean" },
+
+        "classification": {
+          "type": "object",
+          "properties": {
+            "primary_topic": { "type": ["string", "null"] },
+            "sub_topic": { "type": ["string", "null"] },
+            "keywords": { "type": "array", "items": { "type": "string" } },
+            "bloom_level": {
+              "type": ["string", "null"],
+              "enum": ["remember", "understand", "apply", "analyze", "evaluate", "create", null]
+            },
+            "difficulty": { "type": ["string", "null"], "enum": ["easy", "medium", "hard", null] }
+          }
+        },
+        "explanation_detail": {
+          "type": "object",
+          "properties": {
+            "correct_rationale": { "type": ["string", "null"] },
+            "distractor_analysis": { "type": "object" },
+            "references": { "type": "array" },
+            "related_concepts": { "type": "array" }
+          }
+        },
+        "rag": {
+          "type": "object",
+          "properties": {
+            "chunk_text": { "type": ["string", "null"] },
+            "version": { "type": "string" },
+            "last_updated": { "type": "string" },
+            "quality_flag": {
+              "type": "string",
+              "enum": ["auto_parsed", "subscript_fixed", "llm_enriched", "expert_reviewed"]
+            }
+          }
+        },
+        "source_pdf": { "type": ["string", "null"] }
+      }
+    }
+  }
+}
